@@ -16,6 +16,9 @@ googleAnalytics = "UA-99209585-1"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
+[context.deploy-preview.environment]
+HUGO_VERSION = "0.40"
+
 [blackfriday]
   hrefTargetBlank = true
 
