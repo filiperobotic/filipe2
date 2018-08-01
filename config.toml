@@ -1,5 +1,5 @@
-baseurl = "https://alison.rbind.io/"
-title = "Alison Presmanes Hill"
+baseurl = ""
+title = "Filipe Cordeiro"
 copyright = "&copy; 2017 Alison Presmanes Hill"
 theme = "hugo-academic"
 enableEmoji = true
@@ -22,22 +22,43 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Alison Presmanes Hill"
-  description = "A site about R"
-  role = "Associate Professor, Assistant Director of the Center for Spoken Language Understanding"
-  organization = "Oregon Health & Science University (OHSU)"
-  organization_url = "http://www.ohsu.edu/xd/"
-  avatar = "aph-salt-spring-zoom.jpg"
-  email = "apresstats@gmail.com"
-  address = ""
-  office_hours = ""
+  description = "Filipe Website"
+  role = "Adjunct Professor"
+  organization = "Universidade Federal Rural de Pernambuco"
+  organization_url = "www.ufrpe.br"
+  avatar = "filipe-cordeiro2.png"
+  email = "filipe.rolim@ufrpe.br"
+  address = "Building JVS Room 36, UFRPE, Pernambuco, Brazil"
+  office_hours = "email for appointment"
   phone = ""
   skype = ""
   telegram = ""
-  twitter = "apreshill"
-  github = "apreshill"
+  twitter = ""
+  github = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
+  
+    # Enable/disable map in Contact widget.
+  # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
+  # a map provider below.
+  # To use Google Maps, set `map = 1` and enter your API key that can be obtained here:
+  #   https://developers.google.com/maps/documentation/javascript/get-api-key
+  # To use OpenStreetMap tiles, set `map = 2`.
+  # To use OpenStreetMap on a high traffic site, set `map = 3` and enter your API key that can be obtained here:
+  #   https://www.mapbox.com/studio/account/tokens
+  # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
+  #
+  # Map provider:
+  #   0: No map
+  #   1: Google Maps
+  #   2: OpenStreetMap (Mapnik)
+  #   3: OpenStreetMap (Mapbox)
+  map = 1
+  map_api_key = ""
+  latitude = "-8.017561"
+  longitude = "-34.944524"
+  zoom = 15
 
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
