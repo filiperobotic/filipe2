@@ -1,6 +1,6 @@
 baseurl = ""
 title = "Filipe Cordeiro"
-copyright = "&copy; 2017 Alison Presmanes Hill"
+copyright = "&copy; 2017 Filipe Cordeiro"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -21,7 +21,7 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Alison Presmanes Hill"
+  name = "Filipe Rolim Cordeiro"
   description = "Filipe Website"
   role = "Adjunct Professor"
   organization = "Universidade Federal Rural de Pernambuco"
@@ -200,7 +200,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "CV"
-  url = "/pdf/cv_2018-07-22.pdf"
+  url = "/pdf/cv.pdf"
   weight = 2
   
   [[menu.main]]
