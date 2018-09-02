@@ -1,19 +1,5 @@
 +++
-abstract = "Segmentation of masses in mammography images
-is an important task in early detection of breast cancer.
-Although the quality of segmentation is crucial to avoid
-misdiagnosis, the segmentation process is a challenging task
-even for specialists, due to the presence of ill-defined edges and
-low contrast images. In this work, we propose an improvement
-on Random Walker algorithm to segment masses, by applying
-a fuzzy approach in the initialization stage. We evaluated
-the new approach compared with classical Random Walker,
-using 57 images of Mini-MIAS database. The segmented
-images were compared with ground truth, using the metrics
-of sensitivity, specificity, balanced accuracy, Jaccard index and
-dice. Results showed that the proposed method obtained better
-segmentation results when compared with classical Random
-Walker, requiring lower user interaction."
+abstract = "Segmentation of masses in mammography images is an important task in early detection of breast cancer. Although the quality of segmentation is crucial to avoid misdiagnosis, the segmentation process is a challenging task even for specialists, due to the presence of ill-defined edges and low contrast images. In this work, we propose an improvement on Random Walker algorithm to segment masses, by applying a fuzzy approach in the initialization stage. We evaluated the new approach compared with classical Random Walker, using 57 images of Mini-MIAS database. The segmented images were compared with ground truth, using the metrics of sensitivity, specificity, balanced accuracy, Jaccard index and dice. Results showed that the proposed method obtained better segmentation results when compared with classical Random Walker, requiring lower user interaction."
 
 authors = ["Filipe R. Cordeiro", "Kallebe F. P. Bezerra"]
 date = "2017-06-01"
