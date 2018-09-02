@@ -12,7 +12,7 @@ selected = false
 title = "Random Walker with Fuzzy Initialization Applied to Segment Masses in Mammography Images"
 url_code = ""
 url_dataset = ""
-url_pdf = "pdf/2017_CBMS_RW.pdf"
+url_pdf = "https://arxiv.org/pdf/1801.01443.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
@@ -23,7 +23,7 @@ url = "https://ieeexplore.ieee.org/document/8104176/"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "static/img/roc.pdf"
+image = "https://filipe-ufrpe.netlify.com/static/img/roc.pdf"
 caption = "teste"
 
 +++
