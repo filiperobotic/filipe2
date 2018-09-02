@@ -3,7 +3,7 @@ abstract = "Segmentation of masses in mammography images is an important task in
 
 authors = ["Filipe R. Cordeiro", "Kallebe F. P. Bezerra"]
 date = "2017-06-01"
-image_preview = ""
+image_preview = "static/img/roc.pdf"
 math = true
 publication_types = ["2"]
 publication = "In *30th International Symposium on Computer-Based Medical Systems*"
