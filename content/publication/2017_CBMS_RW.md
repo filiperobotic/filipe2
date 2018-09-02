@@ -9,8 +9,7 @@ publication_types = ["2"]
 publication = "In *30th International Symposium on Computer-Based Medical Systems*"
 publication_short = "CBMS"
 selected = false
-title = "Random Walker with Fuzzy Initialization Applied to Segment Masses in
-Mammography Images"
+title = "Random Walker with Fuzzy Initialization Applied to Segment Masses in Mammography Images"
 url_code = ""
 url_dataset = ""
 url_pdf = "pdf/2017_CBMS_RW.pdf"
