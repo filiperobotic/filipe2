@@ -23,7 +23,7 @@ url = "https://ieeexplore.ieee.org/document/8104176/"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "https://filipe-ufrpe.netlify.com/static/img/roc.pdf"
+image = "roc.pdf"
 caption = "teste"
 
 +++
