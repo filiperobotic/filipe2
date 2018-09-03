@@ -9,13 +9,14 @@
     </time>
   </span>
   
-<!--this adds twitter handle to all posts-->
+<!--this adds twitter handle to all posts
   {{ with $.Site.Params.twitter }}  
   <span class="article-date">
     <i class="fa fa-twitter"></i>
     <a href="https://twitter.com/{{ . }}" target="_blank">@{{ . }}</a>&nbsp{{ else }}@{{ . }}
   </span>
   {{ end }}
+-->
 
   {{ if isset $.Params "categories" }}
   {{ $categoriesLen := len $.Params.categories }}
