@@ -18,7 +18,7 @@ url_slides = ""
 url_video = ""
 
 [[url_custom]]
-name = "View Journal Article"
+name = "View Conference Article"
 url = "https://ieeexplore.ieee.org/document/8104176/"
 
 # Optional featured image (relative to `static/img/` folder).
